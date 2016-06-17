@@ -1,0 +1,2 @@
+# opengl-4.0-swiming-pool
+This is a demo for water simulation, using the basic knowledge of graphic programming with modern opengl and glsl.. this demo is based on several techniques like :  normal mapping, per fragment lighting(Phong illumination), FBO, cube mapping, multitexturing, reflection, refraction, ..  The programmable pipeline used is : -vertesx shader -tessellation controller shader -tessellation evaluation shader -fragment shader
